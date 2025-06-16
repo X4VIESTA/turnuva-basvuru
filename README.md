@@ -1,0 +1,1 @@
+Şehrimde yapılacak turnuvaları düzenlemek istiyorum. Turnuvalar için başvuruları alacağım siteyi hazırlayıp Belediye Başkanına sunacağım, onaylarsa belediyenin resmi sitesinde "Turnuvalar" bölümünde kurallar yazacak ve altında başvuru için benim kuracağım siteye yönlendirilecek bir link bulunacak.
